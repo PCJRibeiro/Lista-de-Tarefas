@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u00F3digos\\WorkList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\models\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\models\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\migrations\\organizadorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\migrations\\organizadorcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\migrations\\20240501071552_tabeladetarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\migrations\\20240501071552_tabeladetarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\worklist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\worklist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\models\\enumstatustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\models\\enumstatustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\context\\organizadorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\context\\organizadorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|d:\\c\u00F3digos\\worklist\\worklist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43F8C751-FBFF-4CE5-BB9C-FA3C8B909632}|WorkList\\WorkList.csproj|solutionrelative:worklist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240501071552_TabelaDeTarefas.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Migrations\\20240501071552_TabelaDeTarefas.cs",
+              "RelativeDocumentMoniker": "WorkList\\Migrations\\20240501071552_TabelaDeTarefas.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Migrations\\20240501071552_TabelaDeTarefas.cs",
+              "RelativeToolTip": "WorkList\\Migrations\\20240501071552_TabelaDeTarefas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T04:58:19.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizadorContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Migrations\\OrganizadorContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WorkList\\Migrations\\OrganizadorContextModelSnapshot.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Migrations\\OrganizadorContextModelSnapshot.cs",
+              "RelativeToolTip": "WorkList\\Migrations\\OrganizadorContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:58:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WorkList\\appsettings.Development.json",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\appsettings.Development.json",
+              "RelativeToolTip": "WorkList\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T06:39:30.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkList\\appsettings.json",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\appsettings.json",
+              "RelativeToolTip": "WorkList\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T06:38:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "WorkList\\Controllers\\TarefaController.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "WorkList\\Controllers\\TarefaController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:36:10.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumStatusTarefa.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Models\\EnumStatusTarefa.cs",
+              "RelativeDocumentMoniker": "WorkList\\Models\\EnumStatusTarefa.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Models\\EnumStatusTarefa.cs",
+              "RelativeToolTip": "WorkList\\Models\\EnumStatusTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:34:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkList.csproj",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\WorkList.csproj",
+              "RelativeDocumentMoniker": "WorkList\\WorkList.csproj",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\WorkList.csproj",
+              "RelativeToolTip": "WorkList\\WorkList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T06:31:28.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Models\\Tarefas.cs",
+              "RelativeDocumentMoniker": "WorkList\\Models\\Tarefas.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Models\\Tarefas.cs",
+              "RelativeToolTip": "WorkList\\Models\\Tarefas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:33:29.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Program.cs",
+              "RelativeDocumentMoniker": "WorkList\\Program.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Program.cs",
+              "RelativeToolTip": "WorkList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:08:47.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrganizadorContext.cs",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Context\\OrganizadorContext.cs",
+              "RelativeDocumentMoniker": "WorkList\\Context\\OrganizadorContext.cs",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Context\\OrganizadorContext.cs",
+              "RelativeToolTip": "WorkList\\Context\\OrganizadorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:30:50.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C\u00F3digos\\WorkList\\WorkList\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WorkList\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C\u00F3digos\\WorkList\\WorkList\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WorkList\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T06:29:28.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
